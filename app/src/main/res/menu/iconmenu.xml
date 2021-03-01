@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home"/>
+    <item android:id="@+id/menu_profile"
+        android:icon="@drawable/ic_baseline_account_circle_24"
+        android:title="Profile"/>
+    <item android:id="@+id/menu_completed"
+        android:icon="@drawable/ic_baseline_done_outline_24"
+        android:title="Task Completed"/>
+    <item android:id="@+id/menu_pending"
+        android:icon="@drawable/ic_baseline_restore_24"
+        android:title="Verify Your Profile"/>
+    <item android:id="@+id/menu_call"
+        android:icon="@drawable/ic_baseline_call_24"
+        android:title="Contact"/>
+    <item android:id="@+id/menu_settings"
+        android:icon="@drawable/ic_baseline_settings_24"
+        android:title="Settings"/>
+    <item android:id="@+id/menu_out"
+        android:icon="@drawable/ic_baseline_close_24"
+        android:title="Loggout" />
+
+
+
+</menu>

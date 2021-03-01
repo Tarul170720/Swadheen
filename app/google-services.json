@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "422926560636",
+    "project_id": "swadheen-d0a0b",
+    "storage_bucket": "swadheen-d0a0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422926560636:android:1e5e014d67f8e4fd5508f9",
+        "android_client_info": {
+          "package_name": "com.example.swadheen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422926560636-ijfeacss0slmn6hqh5udvdb3b2ajc7uq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.swadheen",
+            "certificate_hash": "6bdb288aa76d6afb7bebf1635f685b1da81ba4b8"
+          }
+        },
+        {
+          "client_id": "422926560636-5spr8t25f4cprlhope2uab671kvsok2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhvyAUmTZIhd7lWf-DIPHfs8WsicnjYcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422926560636-5spr8t25f4cprlhope2uab671kvsok2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

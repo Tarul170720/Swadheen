@@ -1,0 +1,3 @@
+0 Before
+1 After Work
+2 During Work
